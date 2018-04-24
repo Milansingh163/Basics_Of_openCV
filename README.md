@@ -15,5 +15,7 @@ This repository for all the beginners who would like to start learning openCV. H
 3. BASIC OPERATIONS USING IMAGES
 4. BASIC OPERATIONS USING VIDEOS
 5. Drawing Functions in OpenCV
+6. In Opencv_python_fundamentals directory : Basic Jupyter notebooks made with Opencv and Python ,includes Basic Filters, Edge Detection, Circle Detection, Thresholding, Face-Eye-Smile Detection.
+
 
 you can clone this repo and test with your data sets. 
